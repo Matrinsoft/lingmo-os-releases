@@ -32,6 +32,7 @@ jobs:
         run: |
           mkdir -p debs
           REPOS=(
+            appstream-data-lingmo
             lingmo-applets
             lingmo-applibrary
             lingmo-background
@@ -39,6 +40,7 @@ jobs:
             lingmo-config
             lingmo-edit
             lingmo-files
+            lingmo-fonts
             lingmo-greeter
             lingmo-idle
             lingmo-icons
