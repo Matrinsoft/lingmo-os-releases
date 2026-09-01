@@ -34,12 +34,14 @@ jobs:
           REPOS=(
             lingmo-applets
             lingmo-applibrary
+            lingmo-background
             lingmo-comp
             lingmo-config
             lingmo-edit
             lingmo-files
             lingmo-greeter
             lingmo-idle
+            lingmo-icons
             lingmo-initial-setup
             lingmo-launcher
             lingmo-monitor
@@ -52,6 +54,7 @@ jobs:
             lingmo-session
             lingmo-settings
             lingmo-settings-daemon
+            lingmo-sound-theme
             lingmo-store
             lingmo-term
             lingmo-workspaces-epoch
